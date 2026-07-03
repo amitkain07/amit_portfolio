@@ -13,7 +13,7 @@ export function HeroPage({ repeatedTicker }) {
 
   return (
     <section
-      className="relative flex min-h-screen flex-col items-start overflow-hidden border-b border-[var(--line-soft)] bg-[var(--bg)] px-0 pb-[92px] pt-32 min-[861px]:items-center min-[861px]:pb-[128px] min-[861px]:pt-[var(--header)]"
+      className="relative flex min-h-screen flex-col items-start overflow-hidden border-b border-[var(--line-soft)] bg-[var(--bg)] px-0 pb-[92px] pt-32 min-[861px]:justify-center min-[861px]:pb-[128px] min-[861px]:pt-[var(--header)]"
       data-section="hero"
       id="hero"
     >
