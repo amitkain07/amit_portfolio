@@ -145,7 +145,7 @@ export const profile = {
   location: "Devprayag, Uttarakhand",
   linkedin: "",
   github: "",
-  resume: "/Amit_Kaintura_Resume.pdf",
+  resume: `${import.meta.env.BASE_URL}Amit_Kaintura_Resume.pdf`,
 };
 
 export const stats = [
